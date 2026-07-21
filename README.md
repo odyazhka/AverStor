@@ -11,6 +11,8 @@
 
 ##### 2. Интерфейс
 
+Для первоначальной установки нужно выбрать файл .ipa, он установится и файл .ipa скопируется в averstor/ipas и приложение можно будет легко продлять кнопкой продлить всё. Удалить можно нажав на корзину рядом с приложением, файл .ipa удалится из ipas
+
 <img width="1280" height="687" alt="изображение" src="https://github.com/user-attachments/assets/359757ea-384c-4592-b121-aed76825d5a3" />
 
 <img width="1280" height="687" alt="изображение" src="https://github.com/user-attachments/assets/6167cf64-8dd7-4972-a23d-1c09872ae0a8" />
@@ -21,4 +23,4 @@
 
 <img width="1280" height="687" alt="изображение" src="https://github.com/user-attachments/assets/01251e12-f2ee-40ff-9d63-8eecf5e711c1" />
 
-В AverStor используется движок Sideloader. Приложение эксперементальное, мноогие вещи требуют доработки. Я создал его для себя как аналог AltStore
+В AverStor используется движок Sideloader. Приложение эксперементальное, многие вещи требуют доработки. Я создал его для себя как аналог AltStore
